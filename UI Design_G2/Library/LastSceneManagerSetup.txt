@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/RandomCards_Gen.unity
+  isLoaded: 1
+  isActive: 1
